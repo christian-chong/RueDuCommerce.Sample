@@ -1,0 +1,9 @@
+C:\Dev\SandBox\RueDuCommerce.Sample\Business\bin\Debug\Business.dll
+C:\Dev\SandBox\RueDuCommerce.Sample\Business\bin\Debug\Business.pdb
+C:\Dev\SandBox\RueDuCommerce.Sample\Business\obj\Debug\Business.dll
+C:\Dev\SandBox\RueDuCommerce.Sample\Business\obj\Debug\Business.pdb
+C:\Users\Christian\Desktop\RueDuCommerce.Sample\Business\bin\Debug\Business.dll
+C:\Users\Christian\Desktop\RueDuCommerce.Sample\Business\bin\Debug\Business.pdb
+C:\Users\Christian\Desktop\RueDuCommerce.Sample\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\RueDuCommerce.Sample\Business\obj\Debug\Business.dll
+C:\Users\Christian\Desktop\RueDuCommerce.Sample\Business\obj\Debug\Business.pdb
